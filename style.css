@@ -81,13 +81,13 @@ body {
   justify-content: space-between;
 }
 
-.stat-item h3 {
+.stat-item p {
   font-size: 25px;
   line-height: 30px;
   font-weight: 700;
 }
 
-.stat-item h6 {
+.stat-item span {
   font-size: 12px;
   line-height: 30px;
   font-weight: 400;
@@ -169,12 +169,12 @@ body {
     margin-bottom: 20px;
   }
 
-  .stat-item h3 {
+  .stat-item p {
     font-size: 24px;
     line-height: 29px;
   }
 
-  .stat-item h6 {
+  .stat-item span {
     font-size: 12px;
     line-height: 17px;
   }
