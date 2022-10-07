@@ -105,7 +105,7 @@ body {
   background-size: cover;
   background-blend-mode: multiply;
   background-color: var(--accent);
-  opacity:0.8 ;
+  opacity: 0.8;
   position: relative;
 }
 
